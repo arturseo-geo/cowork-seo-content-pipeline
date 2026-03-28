@@ -1,0 +1,7 @@
+# Failure Registry — cowork-seo-content-pipeline
+# Document known issues and solutions
+# Updated: 2026-03-28
+
+failures: []
+# No failures recorded yet — this is the initial release.
+# Add entries as: id, name, symptom, cause, fix, date_found, status
