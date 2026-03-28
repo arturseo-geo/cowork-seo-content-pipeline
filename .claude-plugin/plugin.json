@@ -1,0 +1,11 @@
+{
+  "name": "seo-content-pipeline",
+  "version": "1.0.0",
+  "description": "End-to-end SEO content pipeline. Keyword research → SERP feature analysis → scored brief → GEO-optimised draft → post-publish rank tracking. Connects DataForSEO, GSC, GA4, and Notion into a single automated workflow.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/seo-content-pipeline-plugin",
+  "license": "MIT"
+}

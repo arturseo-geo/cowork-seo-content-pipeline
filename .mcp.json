@@ -1,0 +1,26 @@
+{
+  "~~serp_data": {
+    "description": "DataForSEO — SERP features, AIO detection, keyword volume/difficulty, PAA, domain analytics",
+    "exampleServers": ["dataforseo-mcp"]
+  },
+  "~~search_console": {
+    "description": "Google Search Console — impressions, clicks, position, coverage, URL inspection",
+    "exampleServers": ["gsc-mcp"]
+  },
+  "~~analytics": {
+    "description": "Google Analytics 4 — traffic, engagement, conversions by content",
+    "exampleServers": ["ga4-mcp"]
+  },
+  "~~crawler": {
+    "description": "Firecrawl — competitor page extraction, content analysis, sitemap crawling",
+    "exampleServers": ["firecrawl-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — keyword database, brief storage, experiment tracking, content calendar",
+    "exampleServers": ["notion-mcp"]
+  },
+  "~~documents": {
+    "description": "Google Drive — keyword sheets, brief exports, rank tracking history",
+    "exampleServers": ["gdrive-mcp"]
+  }
+}
